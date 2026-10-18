@@ -79,7 +79,6 @@ before running the script from start to finish.
 
 ## Authors
 
-**Group 3 — Class LA06**  
 Computer Science and Statistics, BINUS University
 
 - Amanda Sugito
