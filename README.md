@@ -44,4 +44,48 @@ The project report presents the following model performance:
 | --- | --- |
 | Accuracy | 91.35% |
 | Balanced accuracy | 90.86% |
-| Sensitivity | 92.54
+| Sensitivity | 92.54% |
+| Specificity | 89.19% |
+
+These values are taken from the submitted report and have not been independently reproduced.
+
+## Project Files
+
+| File | Description |
+| --- | --- |
+| `diabetes_data.csv` | Dataset used for analysis |
+| `AOL_GraphVisualization.ipynb` | R notebook containing the histogram, bar chart, and box plot |
+| `Code_test.R` | Data inspection, correlation analysis, logistic regression, and evaluation code |
+| `AOL_DMV_Group3.docx` | Project report in Word format |
+| `AOL_DMV_Group3.pdf` | Project report in PDF format |
+| `Case Study.pdf` | Assignment instructions and assessment criteria |
+
+## Usage Notes
+
+Open the notebook with an R kernel and place `diabetes_data.csv` in its working directory. For `Code_test.R`, select the dataset when prompted by `file.choose()`.
+
+The R script contains a typo in the model summary line. Replace:
+
+```r
+summary(Logistric_Regression_Model)
+```
+
+with:
+
+```r
+summary(Logistic_Regression_Model)
+```
+
+before running the script from start to finish.
+
+## Authors
+
+**Group 3 — Class LA06**  
+Computer Science and Statistics, BINUS University
+
+- Amanda Sugito — 2702388433
+- Anthony — 2702377612
+- Hazel Zaki Adityo — 2702329576
+- Marcell Prasetyo — 2702229895
+- Satya Darma Padmakumara — 2702244662
+- Vanessa Santoso — 2702242171
