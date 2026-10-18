@@ -58,7 +58,6 @@ These values are taken from the submitted report and have not been independently
 | `Code_test.R` | Data inspection, correlation analysis, logistic regression, and evaluation code |
 | `AOL_DMV_Group3.docx` | Project report in Word format |
 | `AOL_DMV_Group3.pdf` | Project report in PDF format |
-| `Case Study.pdf` | Assignment instructions and assessment criteria |
 
 ## Usage Notes
 
