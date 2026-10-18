@@ -82,9 +82,9 @@ before running the script from start to finish.
 **Group 3 — Class LA06**  
 Computer Science and Statistics, BINUS University
 
-- Amanda Sugito — 2702388433
-- Anthony — 2702377612
-- Hazel Zaki Adityo — 2702329576
-- Marcell Prasetyo — 2702229895
-- Satya Darma Padmakumara — 2702244662
-- Vanessa Santoso — 2702242171
+- Amanda Sugito
+- Anthony
+- Hazel Zaki Adityo
+- Marcell Prasetyo
+- Satya Darma Padmakumara
+- Vanessa Santoso
